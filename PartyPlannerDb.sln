@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PartyPlannerDb", "PartyPlannerDb\PartyPlannerDb.sqlproj", "{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B117D7FD-48B8-46A2-BE14-759B7BD9EBCC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB6927F0-6C94-4F74-B819-AD5E39661C55}
+	EndGlobalSection
+EndGlobal
